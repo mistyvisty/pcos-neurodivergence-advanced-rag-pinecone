@@ -1,0 +1,8 @@
+papers/*.pdf
+ab_test_results.csv
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.env
+.DS_Store
+venv/
